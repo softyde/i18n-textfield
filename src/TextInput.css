@@ -1,0 +1,33 @@
+.text-input {
+
+    position: relative;
+
+}
+
+.text-input .lang-button {
+
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    background-color: #444;
+    color: #fff;
+    cursor: pointer;
+}
+
+.text-input .lang-box {
+
+    position: absolute;
+
+min-width: 100%;
+
+    left: 0px;
+    top: 42px;
+
+    padding: 0px;
+    z-index: 10;
+}
+
+.text-input .lang-box > * {
+
+    padding: 10px;
+}
