@@ -6,7 +6,7 @@ This is a design for a multilingual text input field for React/TS with MUI compo
 
 - [Typescript](https://www.typescriptlang.org)
 - [React](https://react.dev)
-- [Redux](https://redux.js.org)
+- [React Redux](https://react-redux.js.org)
 - [MUI (Material UI)](https://mui.com)
 
 See [package.json](package.json) for the full list.
